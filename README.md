@@ -9,3 +9,9 @@ https://www.youtube.com/watch?v=WnWGO-tLtLA&ab_channel=RyanLevick
 ## Motivation
 
 Learn about the rust language in order to try out WASM and serverless architecture in that regard for web
+
+## Learning points
+- Ownership in Rust
+- Structs, methods, functions
+- Matching
+- Ok/Err (with shorthand notation)
